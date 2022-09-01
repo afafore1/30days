@@ -42,8 +42,8 @@ st.sidebar.markdown('[Streamlit](https://streamlit.io) is a Python library that 
 
 st.sidebar.header('Resources')
 st.sidebar.markdown('''
-- [Streamlit Documentation](https://afafore1-simpleapp-main-3u7bbm.head.streamlit.run)
-- [Cheat sheet](https://afafore1-simpleapp-main-3u7bbm.head.streamlit.run)
+- [Streamlit Documentation](https://afafore1-simpleapp-main-lctbrw.streamlitapp.test)
+- [Cheat sheet](https://afafore1-simpleapp-main-lctbrw.streamlitapp.test)
 - [Book](https://www.amazon.com/dp/180056550X) (Getting Started with Streamlit for Data Science)
 - [Blog](https://blog.streamlit.io/how-to-master-streamlit-for-data-science/) (How to master Streamlit for data science)
 ''')
